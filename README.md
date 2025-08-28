@@ -74,8 +74,8 @@ usage: cli.py [-h] [--keyword KEYWORD] [--level LEVEL] [--start START] [--end EN
 
 Example outputs generated from `sample_logs/sample.log`:
 
-- Bar chart: `screenshots/counts.png`
-- Timeline: `screenshots/timeline.png`
+- Bar chart: `./screenshots/counts.png`
+- Timeline: `./screenshots/timeline.png`
 
 ## Notes on Formats & Robustness
 
