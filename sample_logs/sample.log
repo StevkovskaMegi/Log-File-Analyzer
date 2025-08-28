@@ -1,0 +1,10 @@
+2025-08-27 10:00:00,001 INFO System - Startup complete
+2025-08-27 10:05:12,123 WARNING Disk space low on /dev/sda1
+2025-08-27 10:10:45,789 ERROR Auth - Failed login for user alice
+Aug 27 11:15:00 host app[111]: INFO Background job started
+2025-08-27T12:00:00Z [ERROR] Database connection timeout
+Aug 27 12:30:00 host app[222]: WARNING High memory usage detected
+2025-08-27 13:45:00 INFO Service - Completed task #42
+Malformed line without timestamp and level
+2025-08-28 09:00:00,000 INFO System - Running health checks
+2025-08-28 09:15:30,333 ERROR API - Endpoint /v1/data failed with 500
